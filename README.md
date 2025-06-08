@@ -1,7 +1,6 @@
 # NewJeans' Cosmic Rush
 
-![Game Screenshot](https://placehold.co/800x400/1a1a2e/FFF?text=Tambahkan%20Screenshot%20Game%20Di%20Sini)
-
+<img src="https://raw.githubusercontent.com/Kurniawanrzk/newjeans-cosmic-rush/refs/heads/main/image.png"></img>
 Selamat datang di **NewJeans' Cosmic Rush**! Ini adalah game web multiplayer real-time yang seru di mana Anda dan seorang teman dapat bermain sebagai anggota NewJeans, Haerin dan Minji. Hindari rintangan yang datang, kumpulkan skor setinggi mungkin, dan bertahanlah lebih lama dari temanmu dalam petualangan kosmik ini!
 
 ## ✨ Fitur Utama
